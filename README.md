@@ -3,8 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ## Deployed Website
-Uses netlify.com
-Url: FallinLoveWithDietzel.netlify.com
+Uses netlify.com 
+
+Url: https://fallinlovewithdietzel.netlify.com/
 
 ## Development server
 
